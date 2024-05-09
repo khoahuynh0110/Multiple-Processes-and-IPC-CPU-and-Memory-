@@ -1,7 +1,3 @@
-Note:  
-   Output is worth 30 points.
-   Each of these is worth 6 points of output.
-
 sample1.txt 
    Tests the indexed load instructions.
    Prints two tables, one of A-Z, the other of 1-10.
