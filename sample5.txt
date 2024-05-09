@@ -1,0 +1,63 @@
+1    // Load 0
+0
+14   // CopyToX
+4    // LoadIdxX 32  
+32
+21   // JumpIfEqual 12 
+12
+9    // Put 2
+2
+25   // IncX
+20   // Jump 3
+3
+1    // Load 0
+0
+16   // CopyToY
+5    // LoadIdxY 59 
+59
+21   // JumpIfEqual 27
+27
+9    // Put 1 
+1
+1    // Load 1 
+1
+11   // AddY
+16   // CopyToY
+20   // Jump 15
+15
+1    // Print newline
+10
+9
+2
+50   // End and then print my name
+84   // ASCII for 'T'
+114  // ASCII for 'r'
+97   // ASCII for 'a'
+110  // ASCII for 'n'
+32   // ASCII for space
+65   // ASCII for 'A'
+110  // ASCII for 'n'
+104  // ASCII for 'h'
+32   // ASCII for space
+75   // ASCII for 'K'
+104  // ASCII for 'h'
+111  // ASCII for 'o'
+97   // ASCII for 'a'
+32   // ASCII for space
+72   // ASCII for 'H'
+117  // ASCII for 'u'
+121  // ASCII for 'y'
+110  // ASCII for 'n'
+104  // ASCII for 'h'
+95   // ASCII for '_'
+115  // ASCII for 's'
+97   // ASCII for 'a'
+109  // ASCII for 'm'
+112  // ASCII for 'p'
+108  // ASCII for 'l'
+101  // ASCII for 'e'
+53   // ASCII for '5'
+
+
+.1000
+30
